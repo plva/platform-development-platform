@@ -19,7 +19,7 @@ This step includes the potential for arbitrary code execution and is therefore i
 
 The correct way to set this up is to locally clone all relevant repos and data from external URLs, to audit all the code, and to change the bootstrap and setup scripts to. This invariably involves the need for an expert in the loop, and for a new developer to be "initiated" into bootstrapping their development environment. Typically in a larger organization this is done by using an internal mirror of external repos that has been vetted and security-verified; in smaller organizations security is typically through obscurity (which means there's no security).
 
-** REMOVAL OF THIS WARNING IMPLIES MALICIOUS INTENT **
+**REMOVAL OF THIS WARNING IMPLIES MALICIOUS INTENT**
 **`END_NOTE`**
 
 ```
